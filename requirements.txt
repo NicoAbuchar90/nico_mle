@@ -3,3 +3,9 @@ pandas
 numpy
 scikit-learn
 scipy
+jupyter
+polars
+implicit
+tqdm
+matplotlib
+seaborn
